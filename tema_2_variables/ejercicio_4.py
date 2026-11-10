@@ -1,0 +1,7 @@
+print("*** registo de ventas***")
+vendedor=(input("ingrese el nombre del vendedor: "))
+productos=int(input("ingrse cantidad de productos vendidos: "))
+ventas=int(input("ingrese el total de ventas: "))
+print("Vendedor:", vendedor)
+print("Productos vendidos:", productos)
+print("Total de ventas:", ventas)

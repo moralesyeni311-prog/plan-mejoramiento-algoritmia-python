@@ -1,0 +1,7 @@
+print("**datos_de_un_producto**")
+nombre=input("ingrese nombre del producto: ")
+cantidad=int(input("ingrese la cantidad del producto disponible: "))
+precio=int(input("ingrese precio del producto: "))
+print("nombre",nombre)
+print("cantidad",cantidad)
+print("precio",precio)

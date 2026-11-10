@@ -1,0 +1,7 @@
+print("*** regitro de un aprendiz***")
+nombre=input("ingrese su nombre: ")
+programa=input("ingrese su progrma de formacion: ")
+ficha=int(input("ingrese numero de ficha de caracterizacion: "))
+print("el nombre del aprendiz es: ",nombre)
+print("el programa en le cual esta inscrito es:",programa)
+print("la ficha de caracterizacion de su programa es:",ficha)

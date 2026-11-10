@@ -1,0 +1,7 @@
+print("***informacion de un behiculo***")
+marca=(input("ingrese marca del automobil: "))
+modelo=(input("ingrese modelo de behiculo: "))
+año_de_fabrica=int(input("ingrese año de fabrica: "))
+print("la marca del auto es:",marca)
+print(" el modelo del atomobil es :",modelo)
+print(" el año de fabrica es : ",año_de_fabrica)
